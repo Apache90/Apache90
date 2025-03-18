@@ -1,6 +1,6 @@
 # ¡Hola! Soy Emir 👋
 
-Técnico en programacion de software actualmente trabajando como **QA Manual** con experiencia en desarrollo web, estoy en camino para especializarme en **QA Automation**. Mi enfoque está en asegurar la calidad de software mediante pruebas exhaustivas, buscando siempre la mejora continua y la eficiencia en los procesos.
+Técnico en programacion de software actualmente trabajando como **QA Analyst** con experiencia en desarrollo web, estoy en camino para especializarme en **QA Automation**. Mi enfoque está en asegurar la calidad de software mediante pruebas exhaustivas, buscando siempre la mejora continua y la eficiencia en los procesos.
 
 ## Sobre mí
 
