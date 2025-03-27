@@ -24,8 +24,8 @@ Técnico en programacion de software actualmente trabajando como **QA Analyst** 
 
 ## Tecnologías y herramientas que manejo actualmente:
 
-- **Lenguajes**: C#, JavaScript, SQL
-- **Frameworks**: React
+- **Lenguajes**: JavaScript, Java, SQL
+- **Frameworks**: React, Selenium, Cypress, Playwright
 - **Herramientas de testing**: Postman, JIRA
 - **CI/CD**: GitHub Actions
 - **Bases de datos**: MySQL
@@ -34,13 +34,15 @@ Técnico en programacion de software actualmente trabajando como **QA Analyst** 
 ## Proyectos Destacados
 
 1. **Softfusion TechnologiesFullstack Dev2024 - Actualidad| Tucumán ( Remoto ), Argentina**:
-   - ArgentinaComo desarrollador fullstack, colaboro con clientes y equipos de proyecto para entender las necesidades y objetivos del negocio de cada emprendedor, planificando y diseñando lo mas adecuado para el producto o servicio que ofrece. Implemento interfaces de usuario y desarrollo la lógica del servidor, bases de datos y API. Además, proporciono soporte continuo en los proyectos ya terminados, atendiendo a solicitudes de cambios, mejoras y resolución de problemas.
-
+• Desarrollo de sistemas y páginas web con React, JavaScript y Node.js.
+• Integración de APIs y optimización del rendimiento en el frontend.
+• Uso de MySQL para gestión de bases de datos.
 2. **Doors Tickets QA 2023 - Actualidad| Mar del Plata ( Remoto ), Argentina**:
-   - Mi trabajo se ha centrado en la identificación de posibles problemas y la redaccion y ejecución de pruebas
-exhaustivas para garantizar la funcionalidad y fiabilidad del producto. Además, he colaborado estrechamente con el
-equipo de desarrolo, aportando soluciones y mejoras que han optimizado la experiencia del usuario y la eficiencia
-del desarrollo.
+• Diseño y ejecución de casos de prueba manuales para va lidar funcionalidades.
+• Reporte y seguimiento de defectos, asegurando su resolución efectiva.
+• Pruebas de regresión y smoke testing en cada nueva iteración del software.
+• Colaboración con desarrolladores para la reproducción y resolución de errores.
+• Gestión de tablero Kanban para asegurar un flujo de trabajo eficiente
 
 ## Estemos en contacto!
 
