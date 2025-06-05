@@ -5,7 +5,7 @@ Técnico en programación de software, actualmente trabajando como **QA Analyst*
 ## Sobre mí
 - 🎓 Técnico universitario en programación de software [UTN].
 - 💻 Experiencia en desarrollo web y QA.
-- 🧪 Conocimiento en desarrollo frontend y backend, lo que me permite tener una visión integral del ciclo de desarrollo de software.
+- 🧪 Conocimientos en desarrollo frontend y backend, lo que me permite diseñar pruebas manuales y automatizadas con una comprensión profunda del funcionamiento interno del software.
 - 📚 Siempre interesado en seguir aprendiendo.
 - 💡 Mi objetivo es crecer como **QA Automation**, creando soluciones automatizadas que mejoren la calidad y en lo posible los tiempos.
 
