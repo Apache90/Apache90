@@ -10,7 +10,7 @@ Técnico en programación de software, actualmente trabajando como **QA Analyst*
 - 💡 Mi objetivo es crecer como **QA Automation**, creando soluciones automatizadas que mejoren la calidad y en lo posible los tiempos.
 
 ## Tecnologías y herramientas que manejo actualmente:
-- **Lenguajes**: JavaScript, TypeScript, C#, Java, SQL
+- **Lenguajes**: JavaScript, TypeScript, SQL
 - **Librerias | Frameworks**: React, Playwright, Cypress.
 - **Herramientas de testing**: Postman, JIRA
 - **CI/CD**: GitHub Actions
