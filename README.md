@@ -1,6 +1,6 @@
 # ¡Hola! Soy Emir Segovia 👋
 
-Soy una persona proactiva, con sólidas habilidades de comunicación y que entiende la importancia del trabajo en equipo. Me motiva aportar valor en cada proyecto, brindando lo necesario para alcanzar los objetivos de manera eficiente. Disfruto aprender continuamente y seguir creciendo, lo que me permite adaptarme con facilidad y dar siempre lo mejor de mí ante cada nuevo desafío.
+Una persona proactiva, con sólidas habilidades de comunicación y que entiende la importancia del trabajo en equipo. Me motiva aportar valor en cada proyecto, brindando lo necesario para alcanzar los objetivos de manera eficiente. Disfruto aprender continuamente y seguir creciendo, lo que me permite adaptarme con facilidad y dar siempre lo mejor de mí ante cada nuevo desafío.
 
 ## Sobre mí
 - 🎓 Técnico Universitario en Programación [UTN FRT] (2022 - 2024)
